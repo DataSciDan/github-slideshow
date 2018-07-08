@@ -6,7 +6,9 @@ title: "Welcome to our second slide!"
 + around
 + with
 + Markdown
+
 things  | amount
 --------|-------
 tables  | 1
+
 Use the left arrow to go back!
